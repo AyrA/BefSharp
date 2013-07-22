@@ -1,7 +1,13 @@
 BefSharp
 ========
 
-Befunge interpreter and EXE compiler in C#
+Befunge interpreter and EXE compiler in C#.
+This application runs befunge-93 code, **not Befunge-98**.
+For more informations on befunge you can look up:  
+english wiki: http://en.wikipedia.org/wiki/Befunge  
+esolang wiki: http://esolangs.org/wiki/Befunge  
+  
+The examples folder in this project contains some source files found.
 
 Features
 --------
